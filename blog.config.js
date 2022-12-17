@@ -3,7 +3,7 @@ const BLOG = {
   author: 'fegase',
   email: 'themuskatin@gmail.com',
   link: 'https://t.me/muskatin',
-  newsletter: 'Notionic Weekly',
+  newsletter: 'Notionic Weekly..',
   description: 'A static blog build on top of Notion and Next.js',
   lang: 'en-US', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   appearance: 'auto', // ['light', 'dark', 'auto'],
